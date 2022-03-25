@@ -5,8 +5,11 @@
 ****
 
 +使用React Hooks+egg.js+AntDesign实现个人博客系统，具有文章展示以及后台管理功能
+
 +支持Marked+highlight.js实现Markdown编辑和代码高亮，后台支持文章预览
+
 +使用Next.js实现服务端渲染
+
 +在Node端实现用户登录鉴权和路由守卫
 
 ****
