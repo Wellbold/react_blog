@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45997813-c9ff-4dd5-bf23-001918732c5e" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="259eyV9IbyAfskQtxTKMMxjnpiQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/新建临时文件" value="JavaScript&#10;ECMAScript 6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ts.external.directory.path" value="E:\WebStorm 2021.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\react_blog\admin\src\Pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\react_blog\service\app\controller\fronted" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.scratch.es6">
+    <configuration name="content.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/blog/pages/content.js" working-dir="$PROJECT_DIR$/blog/pages">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/blog/pages/index.js" working-dir="$PROJECT_DIR$/blog/pages">
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch.es6" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.scratch.es6" />
+        <item itemvalue="Node.js.content.js" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="45997813-c9ff-4dd5-bf23-001918732c5e" name="变更" comment="" />
+      <created>1644943983152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644943983152</updated>
+      <workItem from="1644943984269" duration="1745000" />
+      <workItem from="1644981124516" duration="1372000" />
+      <workItem from="1644986733650" duration="3607000" />
+      <workItem from="1645031178051" duration="2892000" />
+      <workItem from="1645034223801" duration="5396000" />
+      <workItem from="1645068803730" duration="21234000" />
+      <workItem from="1645276542422" duration="13731000" />
+      <workItem from="1645373112692" duration="1520000" />
+      <workItem from="1645375483577" duration="2817000" />
+      <workItem from="1645419821976" duration="15901000" />
+      <workItem from="1645535657996" duration="7422000" />
+      <workItem from="1645588144979" duration="6151000" />
+      <workItem from="1645606325191" duration="19423000" />
+      <workItem from="1645629283112" duration="670000" />
+      <workItem from="1645684215816" duration="14892000" />
+      <workItem from="1645719107355" duration="3482000" />
+      <workItem from="1645765134800" duration="13428000" />
+      <workItem from="1645813879074" duration="6673000" />
+      <workItem from="1645853697444" duration="4612000" />
+      <workItem from="1645871167259" duration="3636000" />
+      <workItem from="1646024310297" duration="15950000" />
+      <workItem from="1646111231149" duration="2272000" />
+      <workItem from="1646126715844" duration="5376000" />
+      <workItem from="1646239757231" duration="1509000" />
+      <workItem from="1646241726252" duration="616000" />
+      <workItem from="1646841838518" duration="2902000" />
+      <workItem from="1646850282766" duration="18000" />
+      <workItem from="1646919103676" duration="408000" />
+      <workItem from="1646919554760" duration="2864000" />
+      <workItem from="1647015208345" duration="1390000" />
+      <workItem from="1647193437189" duration="893000" />
+      <workItem from="1647345717452" duration="6428000" />
+      <workItem from="1647433559189" duration="1218000" />
+      <workItem from="1647694949610" duration="6526000" />
+      <workItem from="1647752278553" duration="6192000" />
+      <workItem from="1648186047020" duration="632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

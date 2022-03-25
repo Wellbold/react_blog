@@ -1,0 +1,46 @@
+.header{
+
+
+    padding: .4rem;
+    overflow: hidden;
+    height: 5rem;
+
+
+}
+.header-logo{
+    color: #ffffff;
+    font-size: 3rem;
+    font-family: "Bauhaus 93", serif;
+    text-align: left;
+}
+
+.header-txt{
+    font-size: 1rem;
+    font-family: "Bauhaus 93", serif;
+    color: #ffffff;
+    display: inline-block;
+    padding-left: 0.3rem;
+}
+
+.ant-menu{
+    color: white;
+    background-color: rgba(255,255,255,0);
+    line-height: 5rem;
+}
+
+.header-index{
+    color: white;
+}
+
+.ant-menu-item{
+    color:white;
+    font-size: 1rem !important;
+    font-weight: bold;
+    padding-left: 0.2rem ;
+    padding-right: 0.2rem;
+
+}
+.ant-menu-title-content{
+    color:white;
+    padding-left: 1rem !important;
+}
